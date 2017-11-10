@@ -1,6 +1,5 @@
 body {
-<<<<<<< HEAD
-  font-family: 'Source Code Pro', 'Montserrat', sans-serif;
+  font-family: 'Source Code Pro', monospace;
   background-color: whitesmoke;
 }
 a:link {
@@ -242,7 +241,6 @@ header .h1 {
 @media (min-width: 992px) {
 
 }
-=======
     margin: 0;
   }
   
@@ -348,4 +346,3 @@ header .h1 {
     }
   }
   
->>>>>>> 45481b67cc2838d1af8a92aa754f5d77f8abf4a7
