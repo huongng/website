@@ -3,7 +3,7 @@ body {
   font-family: 'Source Code Pro', monospace;
   background-color: whitesmoke;
 }
-a:link {
+a:link, a:hover, a:visited {
   text-decoration: none;
   color: inherit;
 }
@@ -189,6 +189,8 @@ header .h1 {
   }
 }
 
+/**************************** JOURNAL *****************************/
+
 #journal-content {
   padding-left: 15px;
 }
@@ -196,6 +198,10 @@ header .h1 {
   padding-left: 15px;
   margin-right: 350px;
   margin-bottom: 100px;
+}
+.journal-item {
+  margin-top: 1.25rem;
+  padding-top: 1.25rem;
 }
 .u-border {
   position: relative;
